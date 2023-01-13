@@ -1,7 +1,6 @@
 name: MANUL
 description: "Manul wakes up. Stay tuned and follow.   Based on TON."
-image: "https://cache.tonapi.io/imgproxy/r-WAgX6MlpYDzbw0MNKaABnFjbQWd4_FL250ia6PCSE/rs:fill:200:200:1/g:no/aHR0cHM6Ly9jZG40LnRlbGVncmFtLWNkbi5vcmcvZmlsZS9yZW92ajdFX3prMHp5ODlNZC1CNEpxS2wwc3pHYTRRdENnTURyZDlISzlCbkVHY2l0X1ZMUUlaVWxFemFuTzhCOENmc1VldzFLWHJYSjM4V2ZKYzRrX0FNSlNZYU5lQUx5WUxROFJkclNwU0lZNlJiVjNjekUxbUpGYk0zWVJ0dmF0RW5ncUhmWDlWMlUxM1EyRlRGY085X1B4akctRHJXeUNHV0IzVlYwYVFCdEk0c0dHSk10M2JtVWNuZkx2MlJzZHBIN3VLYno1c2dqRi10NGpKbWs4UmlEaWxVbDJJR1J3dmYtTmFkN0IyUDFnWVJMZ2hJUWpQa081UWdseEVXeDNNUnlfcWtRSXlnNUZ6UFg5MHl6b01qOFI4NlFvR3JtZDZGV0cwZ3hqOTZldDJ3TENRVFg3U0hVcUpmeUhoUmhsSWhGaGFvRTlidmNpd2ZhdnZJZXcuanBn.webp"
-address: "0:2ec2f3d2f37be9e595cb21c5bdc9cbd409e2b108d72886b8d1715ac0311b9b57"
+image: "https://raw.githubusercontent.com/manulcoin/logo/main/manul.jpg"
 symbol: MANUL
 max_supply: 30000000
 social: 
