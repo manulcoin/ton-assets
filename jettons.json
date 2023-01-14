@@ -1,4 +1,15 @@
 [
+  {
+  "address": "0:2ec2f3d2f37be9e595cb21c5bdc9cbd409e2b108d72886b8d1715ac0311b9b57",
+  "description": "Manul wakes up. Stay tuned and follow.   Based on TON.",
+  "max_supply": 3000000,
+  "name": "MANUL",
+  "social": [
+   "https://t.me/@Manulcoins",
+   "https://t.me/manulcoinschat"
+  ],
+  "symbol": "MANUL"
+ },
  {
   "address": "0:8f98e9e44def2a3ff66d09fdd1cacd38ba445389073fc554be94643a047dc965",
   "description": "Audiatur et altera pars. Universal Altcoin on Ton. @teneretoken . chat: @tenerechat",
