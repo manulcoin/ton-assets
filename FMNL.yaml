@@ -1,0 +1,9 @@
+name: FMNL
+description: "FMNL- new token in the TON."
+address: "0:2ec2f3d2f37be9e595cb21c5bdc9cbd409e2b108d72886b8d1715ac0311b9b57"
+image: "https://raw.githubusercontent.com/manulcoin/logo/main/FMNL.jpg"
+symbol: FMNL
+max_supply: 3000000
+social: 
+  - "https://t.me/@Manulcoins"
+  - "https://t.me/manulcoinschat"
